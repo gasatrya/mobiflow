@@ -91,6 +91,9 @@
     function toggleWhatsAppField() {
       if (actionTypeSelect.value === 'whatsapp') {
         whatsappRow.style.display = '';
+        // Smart Default: Set to WhatsApp brand green
+        bgColorInput.value = '#25D366';
+        updatePreview();
       } else {
         whatsappRow.style.display = 'none';
       }
