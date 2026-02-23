@@ -1,12 +1,11 @@
 {
-  "name": "ctaflow/mobile-cta-bar",
-  "description": "Sticky Floating Button for Call, WhatsApp & Booking",
+  "name": "gasatrya/mobile-cta-bar",
+  "description": "Sticky Floating Button for Call, Messaging & Booking",
   "type": "wordpress-plugin",
   "license": "GPL-2.0-or-later",
   "authors": [
     {
-      "name": "ctaflow",
-      "email": "support@ctaflow.com"
+      "name": "Ga Satrya"
     }
   ],
   "require-dev": {

@@ -1,10 +1,10 @@
 === Mobile CTA Bar – Sticky Floating Button for Call, Messaging & Booking ===
-Contributors: ctaflow
+Contributors: gasatrya
 Tags: mobile, cta, call, messaging, floating button, click to call
 Requires at least: 5.9
-Tested up to: 6.4
+Tested up to: 6.9
 Stable tag: 1.0.0
-Requires PHP: 7.4
+Requires PHP: 8
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -53,7 +53,7 @@ This plugin is built with privacy as a priority. No tracking, no external script
 * Session frequency control — hide for visitors who already clicked
 * Click analytics dashboard — clicks, click rate by page, device breakdown
 
-[Read more detail](https://www.ctaflow.com/mobile-cta-bar)
+[Read more detail](https://www.ctaflow.com/plugins/mobile-cta-bar)
 
 == Installation ==
 
@@ -80,7 +80,7 @@ Yes. In the settings page, you can enter a comma-separated list of page IDs or s
 
 = How do I set up the WhatsApp action? =
 
-Select "WhatsApp" as the action type, then enter your phone number in international format (e.g., `628123456789` for an Indonesian number). You can also customize the pre-filled message text.
+Select "WhatsApp" as the action type, then enter your phone number in international format (e.g., `628123456789`). You can also customize the pre-filled message text.
 
 = Is this plugin free? =
 

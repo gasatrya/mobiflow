@@ -9,12 +9,12 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Mobile CTA Bar – Sticky Floating Button for Call, Messaging & Booking
- * Plugin URI:        https://www.ctaflow.com/mobile-cta-bar
+ * Plugin URI:        https://www.ctaflow.com/plugins/mobile-cta-bar
  * Description:       Add a permanent floating CTA button to your site on mobile. One tap to call, book, or message. Zero code required.
  * Version:           1.0.0
- * Requires at least: 5.9
- * Requires PHP:      7.4
- * Author:            ctaflow
+ * Requires at least: 6.4
+ * Requires PHP:      8
+ * Author:            Ga Satrya
  * Author URI:        https://www.ctaflow.com/
  * License:           GPL v2 or later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
@@ -23,7 +23,7 @@
 
 // Exit if accessed directly.
 if ( ! defined( 'ABSPATH' ) ) {
-	exit;
+	exit();
 }
 
 /**
