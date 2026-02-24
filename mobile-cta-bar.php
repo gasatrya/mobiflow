@@ -3,8 +3,8 @@
  * Mobile CTA Bar – Sticky Floating Button for Call, Messaging & Booking
  *
  * @package           MobileCtaBar
- * @author            ctaflow
- * @copyright         2026 ctaflow
+ * @author            Ga Satrya
+ * @copyright         2026 Ga Satrya
  * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
@@ -12,8 +12,8 @@
  * Plugin URI:        https://www.ctaflow.com/plugins/mobile-cta-bar
  * Description:       Add a permanent floating CTA button to your site on mobile. One tap to call, book, or message. Zero code required.
  * Version:           1.0.0
- * Requires at least: 6.4
- * Requires PHP:      8
+ * Requires at least: 6.5
+ * Requires PHP:      8.0
  * Author:            Ga Satrya
  * Author URI:        https://www.ctaflow.com/
  * License:           GPL v2 or later

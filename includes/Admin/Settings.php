@@ -7,6 +7,10 @@
 
 namespace MobileCtaBar\Admin;
 
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
 /**
  * Admin Settings Handler
  */

@@ -7,6 +7,10 @@
 
 namespace MobileCtaBar;
 
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+
 /**
  * Core Plugin Class
  */

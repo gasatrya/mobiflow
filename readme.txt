@@ -1,10 +1,10 @@
 === Mobile CTA Bar – Sticky Floating Button for Call, Messaging & Booking ===
 Contributors: gasatrya
-Tags: mobile, cta, call, messaging, floating button, click to call
-Requires at least: 5.9
+Tags: whatsapp, cta, whatsapp-business, click-to-chat, notification-bar
+Requires at least: 6.5
 Tested up to: 6.9
 Stable tag: 1.0.0
-Requires PHP: 8
+Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
