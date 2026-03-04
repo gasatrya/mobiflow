@@ -8,10 +8,10 @@
  * @license           GPL-2.0-or-later
  *
  * @wordpress-plugin
- * Plugin Name:       ButtonFlow - Sticky Floating Mobile Button for Call, Messaging & Booking
- * Plugin URI:        https://www.ctaflow.com/plugins/buttonflow
+ * Plugin Name:       ButtonFlow
+ * Plugin URI:        https://www.ctaflow.com/plugins/buttonflow/
  * Description:       Add a permanent floating CTA button to your site on mobile. One tap to call, book, or message. Zero code required.
- * Version:           1.0.1
+ * Version:           1.1.0
  * Requires at least: 6.5
  * Requires PHP:      8.0
  * Author:            Ga Satrya

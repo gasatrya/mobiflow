@@ -10,7 +10,7 @@
 
         // Double check for mobile (already handled by CSS media query)
         function isMobile() {
-            return window.innerWidth <= 767;
+            return window.matchMedia('(max-width: 767px)').matches;
         }
 
         if (!isMobile()) return;

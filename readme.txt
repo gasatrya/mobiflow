@@ -3,7 +3,7 @@ Contributors: gasatrya
 Tags: whatsapp, cta, whatsapp-business, click-to-chat, notification-bar
 Requires at least: 6.5
 Tested up to: 6.9
-Stable tag: 1.0.1
+Stable tag: 1.1.0
 Requires PHP: 8.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -53,7 +53,7 @@ This plugin is built with privacy as a priority. No tracking, no external script
 * Session frequency control — hide for visitors who already clicked
 * Click analytics dashboard — clicks, click rate by page, device breakdown
 
-[Read more detail](https://www.ctaflow.com/plugins/buttonflow)
+[Read more detail](https://www.ctaflow.com/plugins/buttonflow/)
 
 == Installation ==
 
@@ -96,6 +96,12 @@ No. The CSS and JS files combined weigh less than 5kb and are only loaded on the
 2. The floating CTA button as seen by a mobile visitor.
 
 == Changelog ==
+
+= 1.1.0 =
+* Fixed version sync across core files.
+* Added uninstall.php for proper data cleanup on deletion.
+* Improved mobile detection using matchMedia for better consistency.
+* Readiness audit and final refinements for WordPress.org submission.
 
 = 1.0.1 =
 * Rebranded the plugin to ButtonFlow.

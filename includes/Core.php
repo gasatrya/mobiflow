@@ -47,7 +47,7 @@ class Core {
 	 * Define plugin constants.
 	 */
 	private function define_constants() {
-		define( 'BUTTONFLOW_VERSION', '1.0.0' );
+		define( 'BUTTONFLOW_VERSION', '1.1.0' );
 		define( 'BUTTONFLOW_PLUGIN_DIR', plugin_dir_path( __DIR__ ) );
 		define( 'BUTTONFLOW_PLUGIN_URL', plugin_dir_url( __DIR__ ) );
 	}
